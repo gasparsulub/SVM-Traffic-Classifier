@@ -1,0 +1,21 @@
+# Ignorar entornos virtuales
+venv/
+env/
+.env/
+.venv/
+
+# Ignorar archivos joblib
+*.joblib
+
+# Ignorar imágenes de todos los formatos
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.tif
+*.tiff
+*.ico
+*.webp
+
